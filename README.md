@@ -1,9 +1,7 @@
 cookiecutter-typescript-package
 ===============================
 
-A typescript package template for cookiecutter_.
-
-.. _cookiecutter: https://github.com/audreyr/cookiecutter
+A typescript package template for [cookiecutter](https://github.com/audreyr/cookiecutter)
 
 Features
 --------
@@ -15,7 +13,6 @@ Features
 
 Using this template
 -------------------
-::
 
     $ pip install cookiecutter
     $ cookiecutter https://github.com/iodevs/cookiecutter-typescript-package.git
@@ -26,5 +23,3 @@ You will be asked about your basic info (name, project name, etc.). This info wi
 License
 -------
 BSD licensed.
-
-
